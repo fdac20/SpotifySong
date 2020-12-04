@@ -19,10 +19,12 @@ We encountered a fair amount of issues when working on this project. A large one
 
 We believe there to be two main issues with the data:
 
-1. Genres are too specific and inaccurate 
+*1. Genres are too specific and inaccurate:*
+
 Since we relied on the Spotify API to return the list of genres to us, we relied on it for comparisons. In the end this resulted in overly specific genres which we believe weren't entirely accurate to the artist. 
 
-2. Comparison between two users is a fun statistic, but is trivial as far as data analysis goes
+*2. Comparison between two users is a fun statistic, but is trivial as far as data analysis goes:*
+
 Comparing only two users is quite simple, and adding more users to compare to concurrently could be very beneficial in showing the data. A user could see how obscure their music taste in comparison to everyone who's signed in and linked their account, with more statistics and visualizations being available the more users signing up.
 
 
